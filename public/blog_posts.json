@@ -1,0 +1,30 @@
+[
+  {
+    "title": "My first blog post!",
+    "created_at": "2013-11-02T21:36:00-05:00",
+    "author": {
+      "first_name": "John",
+      "last_name": "Smith",
+      "url": "http://google.com"
+    },
+    "content": "<p>Etiam porta sem malesuada magna mollis euismod. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nulla vitae elit libero, a pharetra augue. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p><p>Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>",
+    "image": {
+      "url": "https://dl.dropboxusercontent.com/u/73755643/images.jpeg"
+    },
+    "rating": 3
+  },
+  {
+    "title": "My second blog post!",
+    "created_at": "2013-12-27T11:02:45-05:00",
+    "author": {
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "url": "http://yahoo.com"
+    },
+    "content": "<p>Donec ullamcorper nulla non metus auctor fringilla. Maecenas faucibus mollis interdum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Vestibulum id ligula porta felis euismod semper. Nullam id dolor id nibh ultricies vehicula ut id elit.</p><p>Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur.</p>",
+    "image": {
+      "url": "http://www.catster.com/files/original.jpg"
+    },
+    "rating": 4
+  }
+]
